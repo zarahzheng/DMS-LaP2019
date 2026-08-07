@@ -6,3 +6,11 @@ This repository contains original DMS/P/O and tracer data (in .mat format) colle
 `LaP2019_peter_dmsop.mat` is the discrete DMS/P/O samples collected by a triple quadrupole mass spectrometer.
 
 `LaP2019_peter_raw.mat` is the raw tracer data from the stable isotope tracer experiments to calculate reaction rate constants.
+
+## License
+
+The data and research materials in this repository are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0),
+unless otherwise noted.
+
+https://creativecommons.org/licenses/by/4.0/
